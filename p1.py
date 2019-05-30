@@ -5,7 +5,7 @@ Created on Mon Jul 06 18:31:01 2015
 @author: Sepehr
 """
 from pylab import *
-d = 100
+d = 200 # changed from 100 to 200
 x = linspace(-1,1,d)
 y = linspace(-1,1,d)
 
